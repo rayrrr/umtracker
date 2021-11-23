@@ -3,9 +3,11 @@ A small API for speech to text made in Django.
 
 Requirements:
   - SpeechRecognition 3.6.5
-  - PocketSphinx
+  - PocketSphinx*
   - Requests
   - Django
+
+* See https://github.com/bambocher/pocketsphinx-python/issues/28#issuecomment-597794252 on building on MacOS Catalina+
 
 ## Dev setup
 
